@@ -1,11 +1,11 @@
 # combined-sewage-overflow-analysis
 
 This report compares:
-- the influence of CSO and MS4 sewage conveyance systems in Philadelphia, pA
-- impervious ground cover 
-- aggregated by parcel billing class
+- The influence of CSO and MS4 sewage conveyance systems in Philadelphia, PA
+- Impervious ground cover 
+- Aggregated by parcel billing class
 
-tools:
+Tools:
 - ArcGIS
 - SQLServer
 - Sublime
